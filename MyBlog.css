@@ -1,0 +1,41 @@
+body {
+    border: 20px solid #EAA792;
+    width: 50%;
+    margin: 0 auto;
+    font-family: Cario;
+}
+
+h4 {
+    margin: 2%;
+    color: #FB5B29;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+h2 {
+    margin: 2%;
+    color: #6A1D04;
+}
+
+p {
+    margin: 2%;
+}
+html {
+    background-color: #FFEFEA;
+    padding-top: 2%;
+}
+
+div p:nth-of-type(1) {
+    border-left: 5px solid #EAA792;
+    padding-left: 10px;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-style: inset;
+    border-width: 1px;
+  }
